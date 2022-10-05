@@ -1,0 +1,140 @@
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\EntityFramework.dll
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\EntityFramework.xml
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Универ\1-2 курс\Программирование\Архив\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\EntityFramework.dll
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\EntityFramework.xml
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Projects\1-на заказ\Karina2\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Карина\Desktop\РПС\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\blizzark\Desktop\Lab4(2.0)\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Project\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Project\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Project\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Project\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Project\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+C:\Project\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Project\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Project\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Project\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+C:\Project\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+C:\Project\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\EntityFramework.dll
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\EntityFramework.xml
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\System.Data.SQLite.xml
+C:\Project\RPS 4 sem\Lab4\Lab4\bin\Debug\System.Data.SQLite.dll.config
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Project\RPS 4 sem\Lab4\Lab4\obj\Debug\Lab4.pdb
